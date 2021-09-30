@@ -93,7 +93,7 @@ Preloader
 
 	Board:	               Intel SOCFPGA Stratix 10 Board
 	BootLoader:            U-Boot SPL
-	BootLoader Version:    U-Boot SPL 2019.04 (Nov 01 2019 - 03:11:42 +0000)
+	BootLoader Version:    U-Boot SPL 2020.07 (Jan 13 2021 - 11:04:20 +0000)
 
 Bootloader
 ----------
@@ -102,7 +102,7 @@ Bootloader
 	Board:	               Intel SOCFPGA Stratix 10 Board
 	Board Revision:        Rev A1 devkit
 	BootLoader:            U-Boot
-	BootLoader Version:    U-Boot 2019.04 (Nov 04 2019 - 08:06:54 +0000)socfpga_stratix10
+	BootLoader Version:    U-Boot 2020.07 (Jan 13 2021 - 11:04:20 +0000)socfpga_stratix10
 
 
 
