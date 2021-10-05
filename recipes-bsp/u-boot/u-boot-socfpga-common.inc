@@ -3,7 +3,7 @@ SECTION = "bootloaders"
 
 PV_append = "+git${SRCPV}"
 
-SRC_URI = "git://github.com/altera-opensource/u-boot-socfpga.git;branch=socfpga_v2020.07"
+SRC_URI = "git://github.com/altera-opensource/u-boot-socfpga.git;nobranch=1"
 
 S = "${WORKDIR}/git"
 
