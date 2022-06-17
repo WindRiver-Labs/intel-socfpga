@@ -10,7 +10,7 @@ PV = "1.0.0"
 
 S = "${WORKDIR}/git"
 
-SRC_URI = "git://github.com/altera-opensource/intel-rsu.git;protocol=http;branch=master \
+SRC_URI = "git://github.com/altera-opensource/intel-rsu.git;protocol=https;branch=master \
 	file://0001-intel-rsu-implement-automake-for-intel-rsu-package.patch"
 SRCREV = "e6e29b8d316281bed5359bfc9bb92e9e61424770"
 
